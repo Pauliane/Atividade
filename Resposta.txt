@@ -3,3 +3,8 @@
 Mudança individual no arquivo, ou seja encerra a transação SALVANDO
  permanentemente todas as alterações 
 (updates,deletes,inserts) realizadas durante a transação.
+
+
+2) para que serve o botão sync da ferramenta do github.
+
+Serve para sincronizar alguma pasta ou uma ferramenta
