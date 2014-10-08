@@ -1,0 +1,5 @@
+1)Para que serve COMMIT e dê exemplo.
+ 
+Mudança individual no arquivo, ou seja encerra a transação SALVANDO
+ permanentemente todas as alterações 
+(updates,deletes,inserts) realizadas durante a transação.
